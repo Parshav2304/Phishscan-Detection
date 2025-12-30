@@ -253,9 +253,10 @@ Enable detailed logging by checking browser console (F12):
 
 ##🤝 **The Team** 
 
-- **Yatharth Bhavsar**
+- **Parshav Shah**
 - **Smeet Sadhu**
 - **Mahi Panchal**
 
 **⚠️ Disclaimer**: This extension is for educational and security purposes. Always verify URLs independently and use multiple security tools for comprehensive protection. 
+
 
